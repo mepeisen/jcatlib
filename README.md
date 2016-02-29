@@ -1,17 +1,21 @@
 # jcatlib
 This is a port of some features from c++ library libcat.
+
 The original can be found [at google code](https://code.google.com/archive/p/libcatid/source)
 
 # current version
 release: NONE
+
 snapshot: 0.0.1-SNAPSHOT
 
 # maven identification
 group-id: eu.xworlds.jcatlib
+
 artifact-id: jcatlib
 
 # use/download
 configure your maven with following repository (f.e. inside settings.xml):
+
     <profile>
       <id>xworlds</id>
       <activation>
